@@ -1,0 +1,1 @@
+Este serviço permite reduzir os custos e a complexidade inerentes à compra e gestão de licenças de software, da infraestrutura de aplicações subjacente e middleware, dos orquestradores de contentores, entre outros.
