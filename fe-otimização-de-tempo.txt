@@ -1,0 +1,3 @@
+Benefícios do PaaS: Otimização de tempo
+
+O utilizador deixa de ter que se preocupar com processos de implantação, manutenção e atualizações de ferramentas e sistemas.
