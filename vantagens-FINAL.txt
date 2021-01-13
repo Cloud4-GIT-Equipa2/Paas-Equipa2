@@ -1,0 +1,21 @@
+Suportar equipas de desenvolvimento distribuídas geograficamente. Uma vez que o acesso ao 
+ambiente de desenvolvimento é feito através da Internet, as equipas de desenvolvimento
+podem trabalhar em conjunto nos projetos, mesmo se os vários membros estiverem em 
+localizações remotas.
+
+O utilizador deixa de ter que se preocupar com processos de implantação, manutenção e
+atualizações de ferramentas e sistemas.
+
+Uma das vantagens do ambiente PaaS é a possibilidade de disponibilizar as aplicações rapidamente,
+desta forma a implementação pode ser feita sem um grande consumo de tempo a configurar uma VM,
+podendo escalar-se verticalmente ou horizontalmente consoante a necessidade e de forma bastante
+rápida.
+
+Este serviço permite reduzir os custos e a complexidade inerentes à compra e gestão de licenças
+de software, da infraestrutura de aplicações subjacente e middleware, dos orquestradores de
+contentores, entre outros.
+
+Quando a empresa adota uma solução do tipo plataforma como serviço, também passa a ter
+uma visão mais clara do que mantém nos servidores. Isso facilita a organização, monitoramento
+e controle dos ativos intangíveis, como softwares e bancos de dados repletos de scripts
+e linguagens de programações.
