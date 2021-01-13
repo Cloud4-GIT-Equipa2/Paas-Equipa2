@@ -1,0 +1,6 @@
+"Suportar o desenvolvimento de equipas geograficamente distribuídas"
+Como qualquer serviço baseado em nuvem, um serviço PaaS fica disponível
+a todo o tempo em qualquer lugar, inclusive permitindo que vários
+desenvolvedores trabalhem em um código ao mesmo tempo.
+Dessa forma, a empresa fica livre das correntes de uma infraestrutura
+física e pode encarar o mercado de igual para igual.
