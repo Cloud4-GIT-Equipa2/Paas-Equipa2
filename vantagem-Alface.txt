@@ -1,1 +1,0 @@
-Quando a empresa adota uma solução do tipo plataforma como serviço, também passa a ter uma visão mais clara do que mantém nos servidores. Isso facilita a organização, monitoramento e controle dos ativos intangíveis, como softwares e bancos de dados repletos de scripts e linguagens de programações.

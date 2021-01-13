@@ -1,4 +1,0 @@
-Uma das vantagens do ambiente PaaS é a possibilidade de disponibilizar as aplicações rapidamente,
-desta forma a implementação pode ser feita sem um grande consumo de tempo a configurar uma VM,
-podendo escalar-se verticalmente ou horizontalmente consoante a necessidade e de forma bastante
-rápida.
